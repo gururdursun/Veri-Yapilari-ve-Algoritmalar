@@ -23,7 +23,7 @@ Big O-Notation: O(n^2)
 ```
 [2,6,16,18,22,27] --> Average case
 ```
-### **[7,3,5,8,2,9,4,15,6]** Insertion Sort'a göre Sıralama (ilk 4 adım)
+### **[7,3,5,8,2,9,4,15,6]** Insertion Sort (ilk 4 adım)
 ```
 1. [2,3,5,8,7,9,4,15,6]
 2. [2,3,5,8,7,9,4,15,6]
